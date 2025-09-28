@@ -6,7 +6,7 @@ int main() {
     std::ios::sync_with_stdio(false);
     std::cin.tie(nullptr);
 
-    std::cout << "123";
+    std::cout << "123" << "\n";
 
     return 0;
 }
